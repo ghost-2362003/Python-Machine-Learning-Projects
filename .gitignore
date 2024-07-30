@@ -6,4 +6,4 @@ pythonCodes/pythonAssets/apiTextSummariser.py
 pythonCodes/pythonAssets/myground.py
 /.vscode
 /.java
-/__pycache__
+**/__pycache__/
